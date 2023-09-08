@@ -1,5 +1,5 @@
 ## Name - Jechan An
-## Affiliated School - AI/SW department of Gachon University
+## School - AI/SW department of Gachon University
 I am learning how to use GitHub through Open Source SW class. I am planning to study programming hard and upload various projects. Thank you!!😁
 
 <!--
