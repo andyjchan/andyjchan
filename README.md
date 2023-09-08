@@ -1,6 +1,6 @@
 ## Name - Jechan An
 ## Affiliated School - AI/SW department of Gachon University
-I am learning how to use GitHub through Open Source SW class. I am planning to study programming hard and upload various projects. Thank you!
+I am learning how to use GitHub through Open Source SW class. I am planning to study programming hard and upload various projects. Thank you!!😁
 
 <!--
 **andyjchan/andyjchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
