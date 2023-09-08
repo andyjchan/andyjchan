@@ -1,4 +1,6 @@
-My name is Jechan An. I am currently majoring in artificial intelligence in the AI/SW department of Gachon University. I am learning how to use GitHub through open source SW class. I am planning to study programming hard and upload various repositories. Thank you!
+# Name : Jechan An. 
+# Affiliated: AI/SW department of Gachon University
+I am learning how to use GitHub through open source SW class. I am planning to study programming hard and upload various repositories. Thank you!
 
 <!--
 **andyjchan/andyjchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
